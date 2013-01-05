@@ -14,6 +14,6 @@ Nothing to it really, just:
 	if (dict) {
 	   //  happy day, proceed
 	} else {
-		NSLog(@"error unarchiving: %@", error.descrption);
+		NSLog(@"error unarchiving: %@", error.description);
 		// handle error condition
 	}
